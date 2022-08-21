@@ -27,7 +27,7 @@
     align-items: stretch;
     justify-content: center;
 
-    background-color: ghostwhite;
+    background-color: rgba(0, 0, 0, .15);
 
     box-shadow: var(--box-shadow-1);
     transition: box-shadow var(--animation);
